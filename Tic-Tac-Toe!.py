@@ -1,3 +1,4 @@
+#NOTE: This is the first version. This problem is complex but since I am a beginner, I have made this. I will further commit changes and modifications. Thanks!
 print("Tic-Tac-Toe Board")
 board=[1,2,3,4,5,6,7,8,9]
 while True:
