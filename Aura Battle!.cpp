@@ -38,5 +38,6 @@ int main()
     cout << "Tie" << "\n";
     else
     cout << name1 << " Wins with " << abs(accumulate(ans1.begin(),ans1.end(),0)-accumulate(ans2.begin(),ans2.end(),0))<<" points!" <<"\n";
+
 return 0;
 }
